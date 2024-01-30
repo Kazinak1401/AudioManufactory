@@ -1,2 +1,2 @@
 # AudioManufactory
-This project focuses on making a functually working website about Audio Manufactoring System
+This project focuses on making a functionally working website about Audio Manufacturing System
